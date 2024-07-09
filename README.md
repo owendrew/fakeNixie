@@ -102,7 +102,6 @@ I strongly recommend getting the PCBs manufacture (all files provided and can be
 - If you wish to setup on prototype breadboard, please follow the schematics very carefully.  
 
 - If you use this approach I strongly recommend that you setup the system for 1 display until it is working.  You can then add additional displays as per the Schematic.  You will quickly find that the volume of wires makes for a very untidy looking setup.
-  - 
      
 # ESP32 Programming
 
